@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "32D3817C8041B2BF12CDB08257A260ADE9FD10FE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "32D3817C8041B2BF12CDB08257A260ADE9FD10FE" : 0,
+    "AB0CBAC2336D6EC4E6CB23F152F86577FFF34EF3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FE887C56-4999-4463-A9EA-2FF1CFD279A1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "32D3817C8041B2BF12CDB08257A260ADE9FD10FE" : "",
+    "AB0CBAC2336D6EC4E6CB23F152F86577FFF34EF3" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ReplacingString",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Programming-Project\/ReplacingString\/ReplacingString.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Divakara1990\/Programming-Projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "32D3817C8041B2BF12CDB08257A260ADE9FD10FE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Divakara1990\/Objective-C.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AB0CBAC2336D6EC4E6CB23F152F86577FFF34EF3"
+    }
+  ]
+}
